@@ -60,8 +60,8 @@ header{
 	background: rgba(0, 0, 0, 0.6);
 }
 .description{
-	left: 50%;
 	position: absolute;
+	left: 50%;
 	top: 45%;
 	transform: translate(-50%, -55%);
 	text-align: center;
