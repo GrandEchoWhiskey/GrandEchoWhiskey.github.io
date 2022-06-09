@@ -14,33 +14,32 @@ function addBG(add){
     }
 }
 
-document.addEventListener('scroll', function(e) {
-lastKnownScrollPosition = window.scrollY;
+document.addEventListener('scroll', function(e){
+    lastKnownScrollPosition = window.scrollY;
 
-if (!ticking) {
-    window.requestAnimationFrame(function(){
-        addBG(lastKnownScrollPosition != 0 || clicked);
-    ticking = false;
-    });
+    if (!ticking) {
+        window.requestAnimationFrame(function(){
+            addBG(lastKnownScrollPosition != 0 || clicked);
+        ticking = false;
+        });
 
-    ticking = true;
-}
+        ticking = true;
+    }
 });
+
 
 $('#main_nav_bar').on('show.bs.collapse', function(){
     addBG(true);
 });
 
-$(function(){
-    $('#main_nav_bar').on('hidden.bs.collapse', function(){
-        clicked = false;
-        addBG(false || lastKnownScrollPosition != 0);
-    })
+
+$('#main_nav_bar').on('hidden.bs.collapse', function(){
+    clicked = false;
+    addBG(false || lastKnownScrollPosition != 0);
 });
 
-$(function(){
-    $("#main_nav_bar").on('show.bs.collapse', function(){
-        clicked = true;
-        addBG(true);
-    })
+
+$("#main_nav_bar").on('show.bs.collapse', function(){
+    clicked = true;
+    addBG(true);
 });
