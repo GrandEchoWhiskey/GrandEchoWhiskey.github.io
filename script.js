@@ -27,14 +27,18 @@ document.addEventListener('scroll', function(e){
     }
 });
 
-
-$('#main_nav_bar').on('hidden.bs.collapse', function(){
-    clicked = false;
-    addBG(false || lastKnownScrollPosition != 0);
+$(function(){
+    $('#main_nav_bar').on('hidden.bs.collapse', function(){
+        clicked = false;
+        addBG(false || lastKnownScrollPosition != 0);
+    });
 });
 
 
-$("#main_nav_bar").on('show.bs.collapse', function(){
-    clicked = true;
-    addBG(true);
+$(function(){
+    $("#main_nav_bar").on('show.bs.collapse', function(){
+        clicked = true;
+        addBG(true);
+    });
 });
+
