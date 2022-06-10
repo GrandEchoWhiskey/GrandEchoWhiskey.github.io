@@ -28,11 +28,6 @@ document.addEventListener('scroll', function(e){
 });
 
 
-$('#main_nav_bar').on('show.bs.collapse', function(){
-    addBG(true);
-});
-
-
 $('#main_nav_bar').on('hidden.bs.collapse', function(){
     clicked = false;
     addBG(false || lastKnownScrollPosition != 0);
