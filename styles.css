@@ -11,6 +11,7 @@ a:hover{
 	color: #05d1d1;
 }
 #not-footer{
+	color: white;
 	background-color: #212529;
 	min-height: calc(100vh - 48px);
 }
@@ -103,6 +104,26 @@ header{
 	z-index: 3;
 }
 footer{
-	background-color: rgba(0,0,0,0.1);
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: darkslateblue;
+	color: white;
 	text-align: center;
+}
+#content{
+	background: #212529;
+	margin: 0px;
+}
+.card{
+	margin: 0px;
+	border: 0px;
+	padding: 12px;
+	color: white;
+	background-color: #212529;
+	flex-direction: row;
+}
+.card-body{
+	padding: 12px;
+	color: white;
+	background-color: #313539;
 }

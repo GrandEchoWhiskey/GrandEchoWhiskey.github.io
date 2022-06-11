@@ -1,10 +1,26 @@
-$(document).ready(function(){
-    $('header').height($(window).height());
-});
-
+let windowHeight = 1080
+let navbarHeight = 80
 let lastKnownScrollPosition = 0;
+
 let ticking = false;
 let clicked = false;
+
+$(document).ready(function(){
+    windowHeight = $(window).height();
+    navbarHeight = $('#navbar').height() + 16;
+    $('header').height(windowHeight);
+});
+
+$(window).resize(function() {
+    windowHeight = $(window).height();
+    $('header').height(windowHeight);
+});
+
+function scrollOver(){
+    window.scrollTo(0, windowHeight - navbarHeight);
+}
+
+
 
 function addBG(add){
     if(add){
