@@ -10,6 +10,9 @@ a{
 a:hover{
 	color: #05d1d1;
 }
+body{
+	background: #434147ff;
+}
 #not-footer{
 	color: white;
 	background-color: #434147;
@@ -51,7 +54,8 @@ header{
 	background-repeat: no-repeat;
 }
 .bg3{
-	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(16, 4, 32, 0.603), rgba(0, 0, 0, 0.7)), url('bg/bg3.jpg');
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(16, 4, 32, 0.603), #434147ff, url('bg/bg3.jpg'));
+	background-size: 100% calc(100vh);
 	background-size: cover;
 	
 }
