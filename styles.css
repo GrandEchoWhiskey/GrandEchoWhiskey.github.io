@@ -119,6 +119,11 @@ footer{
 	min-height: calc(100vh);
 	background-color: rgba(0,0,0,0.60);
 }
+#icontent{
+	background: none;
+	margin: 0px;
+	background: none;
+}
 .card{
 	margin: 0px;
 	border: 0px;
