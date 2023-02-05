@@ -36,7 +36,7 @@ document.addEventListener('scroll', function(e){
     if (!ticking) {
         window.requestAnimationFrame(function(){
             addBG(lastKnownScrollPosition != 0 || clicked);
-        ticking = false;
+            ticking = false;
         });
 
         ticking = true;

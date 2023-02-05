@@ -1,0 +1,82 @@
+#icon-bs{
+    content:url(icons/programming/bs.png);
+}
+#icon-c{
+    content:url(icons/programming/c.png);
+}
+#icon-cpp{
+    content:url(icons/programming/cpp.png);
+}
+#icon-csharp{
+    content:url(icons/programming/csharp.png);
+}
+#icon-css{
+    content:url(icons/programming/css.png);
+}
+#icon-dotnet{
+    content:url(icons/programming/dotnet.png);
+}
+#icon-html{
+    content:url(icons/programming/html.png);
+}
+#icon-js{
+    content:url(icons/programming/js.png);
+}
+#icon-love{
+    content:url(icons/programming/love.png);
+}
+#icon-lua{
+    content:url(icons/programming/lua.png);
+}
+#icon-nodejs{
+    content:url(icons/programming/nodejs.png);
+}
+#icon-python{
+    content:url(icons/programming/python.png);
+}
+#icon-qt{
+    content:url(icons/programming/qt.png);
+}
+#icon-scikit{
+    content:url(icons/programming/scikit.png);
+}
+#icon-sql{
+    content:url(icons/programming/sql.png);
+}
+#icon-tensorflow{
+    content:url(icons/programming/tensorflow.png);
+}
+#icon-unity{
+    content:url(icons/programming/unity.png);
+}
+#icon-bash{
+    content:url(icons/tools/bash.png);
+}
+#icon-cmd{
+    content:url(icons/tools/cmd.png);
+}
+#icon-pycharm{
+    content:url(icons/tools/pycharm.png);
+}
+#icon-vbox{
+    content:url(icons/tools/vbox.png);
+}
+#icon-vscode{
+    content:url(icons/tools/vscode.png);
+}
+#icon-vsstudio{
+    content:url(icons/tools/vsstudio.png);
+}
+
+#course-fcc25{
+    content:url(icons/course/fcc25.png);
+}
+#course-fcc100{
+    content:url(icons/course/fcc100.png);
+}
+#course-harvard25{
+    content:url(icons/course/harvard25.png);
+}
+#course-harvard100{
+    content:url(icons/course/harvard100.png);
+}
