@@ -150,3 +150,5 @@ footer{
 	height: auto;
 	border-radius: 100%;
 }
+
+.text-decoration-line-through { text-decoration: line-through; }
