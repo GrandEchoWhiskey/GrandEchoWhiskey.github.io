@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         </a><hr>
                         <h5 class="card-title">${item.title}</h5>
                         <h6 class="card-subtitle mb-2 text-muted">${item.subtitle}</h6>
-                        <p class="card-text">
+                        <p class="card-text" style="text-align: justify; text-justify: inter-word;">
                             ${item.description ? item.description : ""}
                         </p>
                     </div>
