@@ -25,5 +25,14 @@
         "image": "images/CS50AI.png",
         "link": "https://certificates.cs50.io/c00985e7-89b7-4bd3-9874-9f89175d5c54",
         "description": "CS50's Introduction to Artificial Intelligence with Python covers fundamental concepts in AI, including search algorithms like breadth-first search, depth-first search, and A* search. It explores knowledge representation through propositional and first-order logic, as well as constraint satisfaction problems. The course delves into probability and uncertainty with Bayesian networks and Markov models, providing a foundation for reasoning under uncertainty. Machine learning topics include supervised and unsupervised learning, classification with Naïve Bayes and perceptron, regression techniques, and the basics of neural networks and deep learning. Students learn about training models, avoiding overfitting, and feature engineering. Natural language processing is also introduced, covering tokenization, sentiment analysis, and language modeling. Reinforcement learning is explored through Markov decision processes, Q-learning, and policy iteration. The course also addresses ethical considerations in AI, including bias, fairness, and privacy concerns."
+    },
+    {
+        "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
+        "img_class": "card-img-top",
+        "title": "CS50's Introduction to Cybersecurity",
+        "subtitle": "HarvardX",
+        "image": "images/CS50Cybersecurity.png",
+        "link": "https://certificates.cs50.io/2c1fb42c-5905-4c03-83de-e073f757eb0f",
+        "description": "CS50's Introduction to Cybersecurity explores the principles of protecting systems, networks, and data from cyber threats. It covers fundamental cryptographic techniques, including symmetric and asymmetric encryption, hashing, and digital signatures. Network security concepts such as firewalls, intrusion detection systems, and secure communication protocols like TLS are introduced. The course examines vulnerabilities in software and web applications, including SQL injection, cross-site scripting, and buffer overflows, along with mitigation strategies. Cyber defense techniques, including incident response, threat modeling, and penetration testing, are discussed. Students learn about authentication mechanisms, multi-factor authentication, and password security best practices. Social engineering attacks, phishing, and techniques for user awareness and training are explored. The course also addresses legal, ethical, and policy considerations in cybersecurity, including data privacy laws, ethical hacking, and responsible disclosure."
     }
 ]
