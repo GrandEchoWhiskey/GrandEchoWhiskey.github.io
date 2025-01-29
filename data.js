@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         <h5 class="card-title">${item.title}</h5>
                         <h6 class="card-subtitle mb-2 text-muted">${item.subtitle}</h6>
                         <p class="card-text">
-                            ${item.description ? `<ul>${item.description.map(desc => `<li>${desc}</li>`).join("")}</ul>` : ""}
+                            ${item.description ? item.description : ""}
                         </p>
                     </div>
                 `;
