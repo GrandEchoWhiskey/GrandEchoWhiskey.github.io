@@ -20,8 +20,35 @@
     {
         "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
+        "title": "CS50's Introduction to Cybersecurity",
+        "subtitle": "HarvardX - 23 January 2025",
+        "image": "images/CS50Cybersecurity.png",
+        "link": "https://certificates.cs50.io/2c1fb42c-5905-4c03-83de-e073f757eb0f",
+        "description": "CS50's Introduction to Cybersecurity explores the principles of protecting systems, networks, and data from cyber threats. It covers fundamental cryptographic techniques, including symmetric and asymmetric encryption, hashing, and digital signatures. Network security concepts such as firewalls, intrusion detection systems, and secure communication protocols like TLS are introduced. The course examines vulnerabilities in software and web applications, including SQL injection, cross-site scripting, and buffer overflows, along with mitigation strategies. Cyber defense techniques, including incident response, threat modeling, and penetration testing, are discussed. Students learn about authentication mechanisms, multi-factor authentication, and password security best practices. Social engineering attacks, phishing, and techniques for user awareness and training are explored. The course also addresses legal, ethical, and policy considerations in cybersecurity, including data privacy laws, ethical hacking, and responsible disclosure."
+    },
+    {
+        "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
+        "img_class": "card-img-top",
+        "title": "CS50's Introduction to Game Development",
+        "subtitle": "HarvardX - 5 March 2023",
+        "image": "images/CS50G.png",
+        "link": "https://certificates.cs50.io/104a74c3-5cb6-40a0-8717-b2c650b59f04",
+        "description": "CS50's Introduction to Game Development explores the principles of designing and programming interactive experiences using languages like C# and frameworks such as Unity and LÖVE 2D. It covers game physics, collision detection, and rendering techniques to create smooth and immersive gameplay. Students learn about handling user input, managing game states, and implementing AI-driven behaviors for non-player characters. The course delves into game mechanics, including procedural generation, animation, and sound integration, to enhance player engagement. Fundamental concepts in software architecture, such as object-oriented programming and design patterns, are introduced to build scalable and maintainable games. Optimization techniques ensure efficient performance across different platforms. The course also explores the history of video games, analyzing classic titles to understand their mechanics, level design, and storytelling approaches."
+    },
+    {
+        "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
+        "img_class": "card-img-top",
+        "title": "CS50's Introduction to Programming with Python",
+        "subtitle": "HarvardX - 5 December 2022",
+        "image": "images/CS50P.png",
+        "link": "https://certificates.cs50.io/4940f8b2-198b-4b55-bff5-c1e107371115",
+        "description": "CS50's Introduction to Programming with Python covers the fundamentals of programming using Python, focusing on readability, efficiency, and best practices. It introduces variables, data types, conditionals, loops, and functions to build structured and reusable code. Students learn about file handling, exception handling, and debugging techniques to write robust programs. The course explores object-oriented programming, covering classes, inheritance, and encapsulation for designing scalable applications. It also delves into working with data, including lists, dictionaries, and sets, as well as modules and libraries to extend Python's functionality. Topics in regular expressions, command-line arguments, and automation demonstrate how Python can be used for scripting and process optimization. The course introduces fundamental algorithms and data structures, including sorting, searching, and recursion. Students also work with APIs, web scraping, and data visualization techniques to interact with external data sources. The course concludes with discussions on software design, testing, and security best practices, preparing students to write clean, maintainable, and efficient Python code."
+    },
+    {
+        "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
+        "img_class": "card-img-top",
         "title": "CS50's Introduction to Artificial Intelligence with Python",
-        "subtitle": "HarvardX",
+        "subtitle": "HarvardX - 2 June 2022",
         "image": "images/CS50AI.png",
         "link": "https://certificates.cs50.io/c00985e7-89b7-4bd3-9874-9f89175d5c54",
         "description": "CS50's Introduction to Artificial Intelligence with Python covers fundamental concepts in AI, including search algorithms like breadth-first search, depth-first search, and A* search. It explores knowledge representation through propositional and first-order logic, as well as constraint satisfaction problems. The course delves into probability and uncertainty with Bayesian networks and Markov models, providing a foundation for reasoning under uncertainty. Machine learning topics include supervised and unsupervised learning, classification with Naïve Bayes and perceptron, regression techniques, and the basics of neural networks and deep learning. Students learn about training models, avoiding overfitting, and feature engineering. Natural language processing is also introduced, covering tokenization, sentiment analysis, and language modeling. Reinforcement learning is explored through Markov decision processes, Q-learning, and policy iteration. The course also addresses ethical considerations in AI, including bias, fairness, and privacy concerns."
@@ -29,10 +56,10 @@
     {
         "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
-        "title": "CS50's Introduction to Cybersecurity",
-        "subtitle": "HarvardX",
-        "image": "images/CS50Cybersecurity.png",
-        "link": "https://certificates.cs50.io/2c1fb42c-5905-4c03-83de-e073f757eb0f",
-        "description": "CS50's Introduction to Cybersecurity explores the principles of protecting systems, networks, and data from cyber threats. It covers fundamental cryptographic techniques, including symmetric and asymmetric encryption, hashing, and digital signatures. Network security concepts such as firewalls, intrusion detection systems, and secure communication protocols like TLS are introduced. The course examines vulnerabilities in software and web applications, including SQL injection, cross-site scripting, and buffer overflows, along with mitigation strategies. Cyber defense techniques, including incident response, threat modeling, and penetration testing, are discussed. Students learn about authentication mechanisms, multi-factor authentication, and password security best practices. Social engineering attacks, phishing, and techniques for user awareness and training are explored. The course also addresses legal, ethical, and policy considerations in cybersecurity, including data privacy laws, ethical hacking, and responsible disclosure."
+        "title": "CS50's Introduction to Computer Science",
+        "subtitle": "HarvardX - 18 April 2022",
+        "image": "images/CS50x.png",
+        "link": "https://certificates.cs50.io/8166d756-6d6c-415e-a048-72f658c432d3",
+        "description": "CS50's Introduction to Computer Science provides a comprehensive foundation in computer science and programming, starting with problem-solving and algorithmic thinking. It introduces fundamental programming concepts using languages such as C, Python, and SQL, covering variables, loops, conditionals, functions, and memory management. The course explores data structures, including arrays, linked lists, stacks, queues, and hash tables, alongside algorithms for searching and sorting. Concepts in computational complexity and efficiency help students analyze the performance of their code. Web development is introduced through HTML, CSS, JavaScript, and Flask, demonstrating how to build interactive applications. The course also covers cybersecurity principles, including encryption and secure coding practices. Topics in computer architecture, such as binary representation, pointers, and memory allocation, provide insights into how computers operate at a low level. Additionally, students learn about databases, SQL queries, and data normalization. The course emphasizes debugging, testing, and software design, preparing students for further studies in computer science and software engineering."
     }
 ]
