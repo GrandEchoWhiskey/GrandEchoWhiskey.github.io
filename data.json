@@ -1,10 +1,12 @@
 [
     {
+        "class": "card col-md-4 col-xl-3 my-2",
+        "img_class": "card-img-top profile mx-auto d-block my-3",
         "title": "Eric Wolf",
         "subtitle": "pv.wolf.eric@gmail.com",
         "image": "https://avatars.githubusercontent.com/u/102000288",
         "link": "https://github.com/GrandEchoWhiskey",
-        "description": "<ul><li>Python Junior Developer</li><li>Bachelor at WSB in Wrocław (Poland)</li><li>Certified IT Technician</li></ul>"
+        "description": "<ul style=\"list-style-type: '✔️';\"><li>Python Junior Developer</li><li>Bachelor at WSB in Wrocław (Poland)</li><li>Certified IT Technician</li></ul>"
     },
     {
         "title": "University WSB Merito in Wrocław",
