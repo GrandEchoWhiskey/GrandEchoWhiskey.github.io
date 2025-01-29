@@ -47,4 +47,4 @@ const html = `
 `;
 
 // Append the HTML to the page
-document.body.insertAdjacentHTML('beforeend', html);
+document.getElementById('icontent').insertAdjacentHTML('beforeend', html);
