@@ -18,9 +18,12 @@
         "description": "Bachelor of Cybersecurity"
     },
     {
-        "title": "Google Cybersecurity",
-        "subtitle": "Google",
-        "image": "images/CERTIFICATE_LANDING_PAGE~SRRF7O4JFS4R.jpeg",
-        "link": "https://www.coursera.org/account/accomplishments/professional-cert/SRRF7O4JFS4R"
+        "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
+        "img_class": "card-img-top",
+        "title": "CS50's Introduction to Artificial Intelligence with Python",
+        "subtitle": "HarvardX",
+        "image": "images/CS50AI.png",
+        "link": "https://certificates.cs50.io/c00985e7-89b7-4bd3-9874-9f89175d5c54",
+        "description": "CS50's Introduction to Artificial Intelligence with Python covers fundamental concepts in AI, including search algorithms like breadth-first search, depth-first search, and A* search. It explores knowledge representation through propositional and first-order logic, as well as constraint satisfaction problems. The course delves into probability and uncertainty with Bayesian networks and Markov models, providing a foundation for reasoning under uncertainty. Machine learning topics include supervised and unsupervised learning, classification with Naïve Bayes and perceptron, regression techniques, and the basics of neural networks and deep learning. Students learn about training models, avoiding overfitting, and feature engineering. Natural language processing is also introduced, covering tokenization, sentiment analysis, and language modeling. Reinforcement learning is explored through Markov decision processes, Q-learning, and policy iteration. The course also addresses ethical considerations in AI, including bias, fairness, and privacy concerns."
     }
 ]
