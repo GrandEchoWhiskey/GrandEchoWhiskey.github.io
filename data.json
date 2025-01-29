@@ -9,7 +9,7 @@
         "description": "<ul style=\"list-style-type: '✔️';\"><li>Python Junior Developer</li><li>Bachelor at WSB in Wrocław (Poland)</li><li>Certified IT Technician</li></ul>"
     },
     {
-        "class": "card col-md-8 col-xl-8 my-2",
+        "class": "card col-md-9 col-xl-9 my-2",
         "img_class": "card-img-top mx-auto d-block my-3",
         "title": "University WSB Merito in Wrocław",
         "subtitle": "2021 - 2024",
