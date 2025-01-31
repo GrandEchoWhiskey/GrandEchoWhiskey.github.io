@@ -26,7 +26,7 @@
         "class": "card col-md-4 col-xl-6 my-2",
         "img_class": "card-img-top mx-auto d-block my-3",
         "title": "Bachelor of Cybersecurity",
-        "subtitle": "University WSB Merito in Wrocław - 2024",
+        "subtitle": "University WSB Merito in Wrocław - Graduated 2024",
         "image": "images/wsbwro.jpg",
         "link": "https://www.merito.pl/wroclaw/poznaj-wsb-merito/o-uniwersytecie",
         "description": "I hold a Bachelor's degree in Cybersecurity from WSB Merito in Wrocław, where I developed a strong foundation in network security, threat analysis, and system protection. My studies covered key areas such as cryptography, ethical hacking, incident response, and risk management. Through hands-on projects and real-world simulations, I gained practical experience in securing IT infrastructures and mitigating cyber threats. This academic background, combined with my professional experience, allows me to approach cybersecurity challenges with both technical expertise and strategic thinking."
@@ -36,7 +36,7 @@
         "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "CS50's Introduction to Cybersecurity",
-        "subtitle": "HarvardX - 23 January 2025",
+        "subtitle": "HarvardX - Certified 23 January 2025",
         "image": "images/cs50cs_0.png",
         "link": "https://certificates.cs50.io/2c1fb42c-5905-4c03-83de-e073f757eb0f",
         "description": "CS50's Introduction to Cybersecurity explores the principles of protecting systems, networks, and data from cyber threats. It covers fundamental cryptographic techniques, including symmetric and asymmetric encryption, hashing, and digital signatures. Network security concepts such as firewalls, intrusion detection systems, and secure communication protocols like TLS are introduced. The course examines vulnerabilities in software and web applications, including SQL injection, cross-site scripting, and buffer overflows, along with mitigation strategies. Cyber defense techniques, including incident response, threat modeling, and penetration testing, are discussed. Students learn about authentication mechanisms, multi-factor authentication, and password security best practices. Social engineering attacks, phishing, and techniques for user awareness and training are explored. The course also addresses legal, ethical, and policy considerations in cybersecurity, including data privacy laws, ethical hacking, and responsible disclosure."
@@ -46,7 +46,7 @@
         "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "Google Cloud Cybersecurity",
-        "subtitle": "Coursera - 3 December 2024",
+        "subtitle": "Coursera - Certified 3 December 2024",
         "image": "images/Google-Cloud-Logo.png",
         "link": "https://www.coursera.org/account/accomplishments/professional-cert/LH0JL39JEUVF",
         "description": "The Google Cloud Cybersecurity course on Coursera focuses on securing cloud environments, covering key topics such as identity and access management, network security, data protection, and compliance. It provides hands-on experience with Google Cloud security tools, including Security Command Center and Cloud IAM, while teaching best practices for detecting and mitigating threats in cloud-based systems. The course equips learners with the knowledge to implement robust security strategies, ensuring the confidentiality, integrity, and availability of cloud resources."
@@ -56,7 +56,7 @@
         "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "Google Cybersecurity",
-        "subtitle": "Coursera - 1 December 2024",
+        "subtitle": "Coursera - Certified 1 December 2024",
         "image": "images/google-new7326.jpg",
         "link": "https://www.coursera.org/account/accomplishments/professional-cert/SRRF7O4JFS4R",
         "description": "The Google Cybersecurity course on Coursera provides a comprehensive introduction to cybersecurity fundamentals, covering threat detection, risk management, network security, and incident response. It explores key concepts such as security best practices, cryptography, and system hardening while emphasizing real-world applications. The course also includes hands-on labs and case studies, equipping learners with the skills needed to identify vulnerabilities, mitigate cyber threats, and apply security measures in various IT environments."
@@ -66,7 +66,7 @@
         "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "CS50's Introduction to Game Development",
-        "subtitle": "HarvardX - 5 March 2023",
+        "subtitle": "HarvardX - Certified 5 March 2023",
         "image": "images/CS50G_pll.png",
         "link": "https://certificates.cs50.io/104a74c3-5cb6-40a0-8717-b2c650b59f04",
         "description": "CS50's Introduction to Game Development explores the principles of designing and programming interactive experiences using languages like C# and frameworks such as Unity and LÖVE 2D. It covers game physics, collision detection, and rendering techniques to create smooth and immersive gameplay. Students learn about handling user input, managing game states, and implementing AI-driven behaviors for non-player characters. The course delves into game mechanics, including procedural generation, animation, and sound integration, to enhance player engagement. Fundamental concepts in software architecture, such as object-oriented programming and design patterns, are introduced to build scalable and maintainable games. Optimization techniques ensure efficient performance across different platforms. The course also explores the history of video games, analyzing classic titles to understand their mechanics, level design, and storytelling approaches."
@@ -76,7 +76,7 @@
         "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "Machine Learning with Python",
-        "subtitle": "FreeCodeCamp - 31 January 2023",
+        "subtitle": "FreeCodeCamp - Certified 31 January 2023",
         "image": "images/fcc_indigo.png",
         "link": "https://www.freecodecamp.org/certification/grandechowhiskey/machine-learning-with-python-v7",
         "description": "The Machine Learning with Python course from FreeCodeCamp covers the fundamentals of machine learning, focusing on practical applications using Python. It introduces key concepts such as supervised and unsupervised learning, data preprocessing, and model evaluation. The course explores essential techniques like regression, classification, clustering, and neural networks, utilizing libraries such as Scikit-Learn, Pandas, and TensorFlow. With a hands-on approach, it provides insights into real-world problem-solving, equipping learners with the skills to build, train, and optimize machine learning models for various applications"
@@ -86,7 +86,7 @@
         "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "CS50's Introduction to Programming with Python",
-        "subtitle": "HarvardX - 5 December 2022",
+        "subtitle": "HarvardX - Certified 5 December 2022",
         "image": "images/CS50P_pll.png",
         "link": "https://certificates.cs50.io/4940f8b2-198b-4b55-bff5-c1e107371115",
         "description": "CS50's Introduction to Programming with Python covers the fundamentals of programming using Python, focusing on readability, efficiency, and best practices. It introduces variables, data types, conditionals, loops, and functions to build structured and reusable code. Students learn about file handling, exception handling, and debugging techniques to write robust programs. The course explores object-oriented programming, covering classes, inheritance, and encapsulation for designing scalable applications. It also delves into working with data, including lists, dictionaries, and sets, as well as modules and libraries to extend Python's functionality. Topics in regular expressions, command-line arguments, and automation demonstrate how Python can be used for scripting and process optimization. The course introduces fundamental algorithms and data structures, including sorting, searching, and recursion. Students also work with APIs, web scraping, and data visualization techniques to interact with external data sources. The course concludes with discussions on software design, testing, and security best practices, preparing students to write clean, maintainable, and efficient Python code."
@@ -96,7 +96,7 @@
         "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "Scientific Computing with Python",
-        "subtitle": "FreeCodeCamp - 16 June 2022",
+        "subtitle": "FreeCodeCamp - Certified 16 June 2022",
         "image": "images/fcc_indigo.png",
         "link": "https://www.freecodecamp.org/certification/grandechowhiskey/scientific-computing-with-python-v7",
         "description": "The Scientific Computing with Python course from FreeCodeCamp provides a deep dive into Python for data analysis, automation, and problem-solving. It covers core programming concepts, object-oriented programming, and working with data structures. The course emphasizes practical applications such as handling files, processing data, and building algorithms. Using libraries like NumPy and Pandas, it introduces scientific computing techniques essential for numerical analysis and data manipulation, equipping learners with the skills to develop efficient and scalable solutions."
@@ -106,7 +106,7 @@
         "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "CS50's Introduction to Artificial Intelligence with Python",
-        "subtitle": "HarvardX - 2 June 2022",
+        "subtitle": "HarvardX - Certified 2 June 2022",
         "image": "images/CS50AI_pll.png",
         "link": "https://certificates.cs50.io/c00985e7-89b7-4bd3-9874-9f89175d5c54",
         "description": "CS50's Introduction to Artificial Intelligence with Python covers fundamental concepts in AI, including search algorithms like breadth-first search, depth-first search, and A* search. It explores knowledge representation through propositional and first-order logic, as well as constraint satisfaction problems. The course delves into probability and uncertainty with Bayesian networks and Markov models, providing a foundation for reasoning under uncertainty. Machine learning topics include supervised and unsupervised learning, classification with Naïve Bayes and perceptron, regression techniques, and the basics of neural networks and deep learning. Students learn about training models, avoiding overfitting, and feature engineering. Natural language processing is also introduced, covering tokenization, sentiment analysis, and language modeling. Reinforcement learning is explored through Markov decision processes, Q-learning, and policy iteration. The course also addresses ethical considerations in AI, including bias, fairness, and privacy concerns."
@@ -116,7 +116,7 @@
         "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "CS50's Introduction to Computer Science",
-        "subtitle": "HarvardX - 18 April 2022",
+        "subtitle": "HarvardX - Certified 18 April 2022",
         "image": "images/CS50x_pll.png",
         "link": "https://certificates.cs50.io/8166d756-6d6c-415e-a048-72f658c432d3",
         "description": "CS50's Introduction to Computer Science provides a comprehensive foundation in computer science and programming, starting with problem-solving and algorithmic thinking. It introduces fundamental programming concepts using languages such as C, Python, and SQL, covering variables, loops, conditionals, functions, and memory management. The course explores data structures, including arrays, linked lists, stacks, queues, and hash tables, alongside algorithms for searching and sorting. Concepts in computational complexity and efficiency help students analyze the performance of their code. Web development is introduced through HTML, CSS, JavaScript, and Flask, demonstrating how to build interactive applications. The course also covers cybersecurity principles, including encryption and secure coding practices. Topics in computer architecture, such as binary representation, pointers, and memory allocation, provide insights into how computers operate at a low level. Additionally, students learn about databases, SQL queries, and data normalization. The course emphasizes debugging, testing, and software design, preparing students for further studies in computer science and software engineering."
