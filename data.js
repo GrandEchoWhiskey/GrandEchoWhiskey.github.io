@@ -20,6 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         <p class="card-text" style="text-align: justify; text-justify: inter-word;">
                             ${item.description ? item.description : ""}
                         </p>
+                        ${item.additional_button ? `<a href='${item.link}' class='card-link' target='_blank'>${item.additional_button}</a>` : ""}
                     </div>
                 `;
 

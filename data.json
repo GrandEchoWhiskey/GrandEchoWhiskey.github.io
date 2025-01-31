@@ -7,7 +7,8 @@
         "subtitle": "GrandEchoWhiskey",
         "image": "https://avatars.githubusercontent.com/u/102000288",
         "link": "https://github.com/GrandEchoWhiskey",
-        "description": "Explore my GitHub for a collection of projects showcasing my expertise in cybersecurity, networking, and programming. From AI-driven applications to security tools and system automation, my repositories reflect a hands-on approach to solving real-world problems. Let's build something great together!<br><a href='https://github.com/GrandEchoWhiskey'>Check my GitHub</a>"
+        "description": "Explore my GitHub for a collection of projects showcasing my expertise in cybersecurity, networking, and programming. From AI-driven applications to security tools and system automation, my repositories reflect a hands-on approach to solving real-world problems. Let's build something great together!",
+        "additional_button": "Check my GitHub"
     },
     {
         "category": "contact",
@@ -17,7 +18,8 @@
         "subtitle": "Eric Wolf",
         "image": "https://media.licdn.com/dms/image/v2/C4D03AQGrkFc1o0s8hg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1651185403226?e=1743638400&v=beta&t=mNVXUVWpIOWoQdIO1vr0cf5mbiUj6aTHgiSzewL0Z9E",
         "link": "https://www.linkedin.com/in/eric-wolf-064874238/",
-        "description": "Cybersecurity and IT professional with expertise in network security, system automation, and software development. Passionate about solving real-world security challenges through hands-on projects. Explore my work and let's connect! <br><a href='https://www.linkedin.com/in/eric-wolf-064874238/'>Check my LinkedIn</a>"
+        "description": "Cybersecurity and IT professional with expertise in network security, system automation, and software development. Passionate about solving real-world security challenges through hands-on projects. Explore my work and let's connect!",
+        "additional_button": "Connect on LinkedIn"
     },
     {
         "category": "education",
@@ -26,7 +28,7 @@
         "title": "Bachelor of Cybersecurity",
         "subtitle": "University WSB Merito in Wrocław - 2024",
         "image": "images/wsbwro.jpg",
-        "link": "https://github.com/GrandEchoWhiskey",
+        "link": "https://www.merito.pl/wroclaw/poznaj-wsb-merito/o-uniwersytecie",
         "description": "I hold a Bachelor's degree in Cybersecurity from WSB Merito in Wrocław, where I developed a strong foundation in network security, threat analysis, and system protection. My studies covered key areas such as cryptography, ethical hacking, incident response, and risk management. Through hands-on projects and real-world simulations, I gained practical experience in securing IT infrastructures and mitigating cyber threats. This academic background, combined with my professional experience, allows me to approach cybersecurity challenges with both technical expertise and strategic thinking."
     },
     {
