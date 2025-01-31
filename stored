@@ -128,3 +128,123 @@
                     <p class="card-text"></p>
                 </div>
             </div>
+
+            
+            <div class="card col-xs-12 col-sm-12 col-md-8 col-xl-4 my-2">
+                <div class="card-body">
+                    <h5 class="card-title">Interactive CV</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">C++ | QT | ActiveX</h6><hr>
+                    <p class="card-text">A GUI application, that creates "Interactive" resumes. Simply give a pdf file, and a video file, the application will 
+                        merge them together. You now have a interactive resume. Choose the directory, read the pdf and hear to the video at once.</p>
+                    <a href="https://github.com/GrandEchoWhiskey/MyInteractiveCV" class="card-link" target="_blank">ICV on Github</a>
+                </div>
+            </div>
+
+            <div class="card col-xs-12 col-sm-6 col-md-4 col-xl-4 my-2">
+                <div class="card-body">
+                    <h5 class="card-title">Bloodtype</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Python</h6><hr>
+                    <p class="card-text">Easy to use bloodtype predictions. It's all about genes. It takes the parents bloodtype, and returns the childrens probability.</p>
+                    <a href="https://github.com/GrandEchoWhiskey/bloodtype" class="card-link" target="_blank">BloodType on GitHub</a>
+                </div>
+            </div>
+
+            <div class="card col-xs-12 col-sm-6 col-md-4 col-xl-4 my-2">
+                <div class="card-body">
+                    <h5 class="card-title">CS50Utils</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Python | HTML</h6><hr>
+                    <p class="card-text">Easy to use CS50 course helper. It is not chating, all it does is speed up a few actions, 
+                        that are required in the course. For example checking all grades at once, or downloading and unpacking a zip.</p>
+                    <a href="https://github.com/GrandEchoWhiskey/CS50Utils" class="card-link" target="_blank">CS50Utils on GitHub</a>
+                </div>
+            </div>
+
+            <div class="card col-xs-12 col-sm-6 col-md-4 col-xl-4 my-2">
+                <div class="card-body">
+                    <h5 class="card-title">My Portfolio</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">JS | HTML | CSS</h6><hr>
+                    <p class="card-text">My website. Actually I started this project in the CS50x course. 
+                        But it had potential to be a good looking website.</p>
+                    <a href="https://grandechowhiskey.github.io" class="card-link">Website</a>
+                    <a href="https://github.com/GrandEchoWhiskey/grandechowhiskey.github.io" class="card-link" target="_blank">Code on GitHub</a>
+                </div>
+            </div>
+
+            <div class="card col-xs-12 col-sm-12 col-md-8 col-xl-4 my-2">
+                <div class="card-body">
+                    <a href="https://www.wsb.pl/wroclaw/" target="_blank">
+                        <img src="images/wsbwro.jpg" class="card-img-top" alt="WSB in Wrocław"/>
+                    </a><hr>
+                    <h5 class="card-title mt-3">Student at Wyższa Szkoła Bankowa in Wrocław</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Bachelor | Since October 2021</h6>
+                    <p class="card-text">Specialization: Cybersecurity<br>Major: National security<br>Faculty: Law and Administration</p>
+                </div>
+            </div>
+
+            <div class="card col-xs-12 col-sm-6 col-md-4 col-xl-4 my-2">
+                <div class="card-body">
+                    <a href="https://certificates.cs50.io/8166d756-6d6c-415e-a048-72f658c432d3" target="_blank">
+                        <img src="images/CS50x.png" class="card-img-top" alt="Certificate CS50x"/>
+                    </a><hr>
+                    <h5 class="card-title mt-3">CS50's Introduction to Computer Science</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">HarvardX</h6>
+                    <p class="card-text">I have completed the course including 10 problem sets, 8 labs, and a final project.
+                        The problem sets required C, Python, SQL, HTML and CSS knowledge. For the final project I chose C++ with QT - 
+                        <a href="https://github.com/GrandEchoWhiskey/MyInteractiveCV" class="card-link" target="_blank">My Interactive CV</a>. 
+                        Most fun was the fiftyville problem set, because I had to get a thief by only SQL querries. This website also started on this course.
+                    </p>
+                </div>
+            </div>
+
+            <div class="card col-xs-12 col-sm-6 col-md-4 col-xl-4 my-2">
+                <div class="card-body">
+                    <a href="https://certificates.cs50.io/c00985e7-89b7-4bd3-9874-9f89175d5c54" target="_blank">
+                        <img src="images/CS50AI.png" class="card-img-top" alt="Certificate CS50AI"/>
+                    </a><hr>
+                    <h5 class="card-title mt-3">CS50's Introduction to Artificial Intelligence with Python</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">HarvardX</h6>
+                    <p class="card-text">Completed including 12 projects, and 7 quizzes. This course required much more computional thinking than the CS50x course before, 
+                        because of the AI learning preparation. The course teached me also a few algorytms, which are used in path finding or in chess engines. 
+                        I am very proud of this certificate.
+                    </p>
+                </div>
+            </div>
+
+            <div class="card col-xs-12 col-sm-6 col-md-4 col-xl-4 my-2">
+                <div class="card-body">
+                    <a href="https://certificates.cs50.io/4940f8b2-198b-4b55-bff5-c1e107371115" target="_blank">
+                        <img src="images/CS50P.png" class="card-img-top" alt="Certificate CS50P"/>
+                    </a><hr>
+                    <h5 class="card-title mt-3">CS50's Introduction to Programming with Python</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">HarvardX</h6>
+                    <p class="card-text">Completed including 9 problem sets and a final project. The problems included testing, exception catching, system io's, and many more like for oop's.
+                        My final project was a sorting algorythm tester, with very much compatibility for new algorythms.
+                    </p>
+                </div>
+            </div>
+
+            <div class="card col-xs-12 col-sm-6 col-md-4 col-xl-4 my-2">
+                <div class="card-body">
+                    <a href="https://www.udemy.com/certificate/UC-90aa238f-43a0-400c-a95c-8681c44a5fd0" target="_blank">
+                        <img src="images/udemy_kali.jpg" class="card-img-top" alt="Certificate Udemy Kali Linux Ethical Hacking"/>
+                    </a><hr>
+                    <h5 class="card-title mt-3">Kali Linux - Basics of ethical hacking and security</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Przemysław Szmaj | Udemy</h6>
+                    <p class="card-text">In this course I learned more about how to prevent other people to get your personal data, and access.
+                        But also how to test my network for security issues. It was a nice addition to my study.
+                    </p>
+                </div>
+            </div>
+            
+            <div class="card col-xs-12 col-sm-6 col-md-4 col-xl-4 my-2">
+                <div class="card-body">
+                    <a href="https://www.freecodecamp.org/certification/grandechowhiskey/scientific-computing-with-python-v7" target="_blank">
+                        <img src="images/fcc-ai-ew.png" class="card-img-top" alt="Certificate freeCodeCamp Scientific Computing with Python"/>
+                    </a><hr>
+                    <h5 class="card-title mt-3">Scientific Computing with Python</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">freeCodeCamp</h6>
+                    <p class="card-text">I took this course to train my abillities in writing code with Python. 
+                        It was one of the basics every developer should know.
+                    </p>
+                </div>
+            </div>
