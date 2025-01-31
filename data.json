@@ -3,11 +3,21 @@
         "category": "contact",
         "class": "card col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top profile mx-auto d-block my-3",
-        "title": "Eric Wolf",
-        "subtitle": "pv.wolf.eric@gmail.com",
+        "title": "LinkedIn",
+        "subtitle": "Eric Wolf",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQGrkFc1o0s8hg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1651185403226?e=1743638400&v=beta&t=mNVXUVWpIOWoQdIO1vr0cf5mbiUj6aTHgiSzewL0Z9E",
+        "link": "https://www.linkedin.com/in/eric-wolf-064874238/",
+        "description": ""
+    },
+    {
+        "category": "contact",
+        "class": "card col-md-4 col-xl-3 my-2",
+        "img_class": "card-img-top profile mx-auto d-block my-3",
+        "title": "GitHub",
+        "subtitle": "GrandEchoWhiskey",
         "image": "https://avatars.githubusercontent.com/u/102000288",
         "link": "https://github.com/GrandEchoWhiskey",
-        "description": "<ul style=\"list-style-type: '✔️';\"><li>Python Junior Developer</li><li>Bachelor at WSB in Wrocław (Poland)</li><li>Certified IT Technician</li></ul>"
+        "description": "My GitHub profile"
     },
     {
         "category": "education",
