@@ -15,7 +15,7 @@
         "class": "card col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top profile mx-auto d-block my-3",
         "title": "LinkedIn",
-        "subtitle": "Eric Wolf",
+        "subtitle": "<span class='notranslate'>Eric Wolf</span>",
         "image": "https://media.licdn.com/dms/image/v2/C4D03AQGrkFc1o0s8hg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1651185403226?e=1743638400&v=beta&t=mNVXUVWpIOWoQdIO1vr0cf5mbiUj6aTHgiSzewL0Z9E",
         "link": "https://www.linkedin.com/in/eric-wolf-064874238/",
         "description": "Cybersecurity and IT professional with expertise in network security, system automation, and software development. Passionate about solving real-world security challenges through hands-on projects. Explore my work and let's connect!",

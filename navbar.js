@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     container.innerHTML = `
         <div class="container-fluid">
-            <a class="navbar-brand fs-1" href="index.html">Eric Wolf</a>
+            <a class="navbar-brand fs-1 notranslate" href="index.html">Eric Wolf</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main_nav_bar" aria-controls="main_nav_bar" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
