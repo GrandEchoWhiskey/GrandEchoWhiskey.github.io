@@ -47,7 +47,7 @@
         "img_class": "card-img-top",
         "title": "Google Cloud Cybersecurity",
         "subtitle": "Coursera - 3 December 2024",
-        "image": "images/CERTIFICATE_LANDING_PAGE~LH0JL39JEUVF.jpeg",
+        "image": "images/Google-Cloud-Logo.png",
         "link": "https://www.coursera.org/account/accomplishments/professional-cert/LH0JL39JEUVF",
         "description": "The Google Cloud Cybersecurity course on Coursera focuses on securing cloud environments, covering key topics such as identity and access management, network security, data protection, and compliance. It provides hands-on experience with Google Cloud security tools, including Security Command Center and Cloud IAM, while teaching best practices for detecting and mitigating threats in cloud-based systems. The course equips learners with the knowledge to implement robust security strategies, ensuring the confidentiality, integrity, and availability of cloud resources."
     },
@@ -57,7 +57,7 @@
         "img_class": "card-img-top",
         "title": "Google Cybersecurity",
         "subtitle": "Coursera - 1 December 2024",
-        "image": "images/CERTIFICATE_LANDING_PAGE~SRRF7O4JFS4R.jpeg",
+        "image": "images/google-new7326.jpg",
         "link": "https://www.coursera.org/account/accomplishments/professional-cert/SRRF7O4JFS4R",
         "description": "The Google Cybersecurity course on Coursera provides a comprehensive introduction to cybersecurity fundamentals, covering threat detection, risk management, network security, and incident response. It explores key concepts such as security best practices, cryptography, and system hardening while emphasizing real-world applications. The course also includes hands-on labs and case studies, equipping learners with the skills needed to identify vulnerabilities, mitigate cyber threats, and apply security measures in various IT environments."
     },
@@ -77,7 +77,7 @@
         "img_class": "card-img-top",
         "title": "Machine Learning with Python",
         "subtitle": "FreeCodeCamp - 31 January 2023",
-        "image": "images/fcc-ai-ew.png",
+        "image": "images/fcc_indigo.png",
         "link": "https://www.freecodecamp.org/certification/grandechowhiskey/machine-learning-with-python-v7",
         "description": "The Machine Learning with Python course from FreeCodeCamp covers the fundamentals of machine learning, focusing on practical applications using Python. It introduces key concepts such as supervised and unsupervised learning, data preprocessing, and model evaluation. The course explores essential techniques like regression, classification, clustering, and neural networks, utilizing libraries such as Scikit-Learn, Pandas, and TensorFlow. With a hands-on approach, it provides insights into real-world problem-solving, equipping learners with the skills to build, train, and optimize machine learning models for various applications"
     },
@@ -97,7 +97,7 @@
         "img_class": "card-img-top",
         "title": "Scientific Computing with Python",
         "subtitle": "FreeCodeCamp - 16 June 2022",
-        "image": "images/fcc-scicomp-ew.png",
+        "image": "images/fcc_indigo.png",
         "link": "https://www.freecodecamp.org/certification/grandechowhiskey/scientific-computing-with-python-v7",
         "description": "The Scientific Computing with Python course from FreeCodeCamp provides a deep dive into Python for data analysis, automation, and problem-solving. It covers core programming concepts, object-oriented programming, and working with data structures. The course emphasizes practical applications such as handling files, processing data, and building algorithms. Using libraries like NumPy and Pandas, it introduces scientific computing techniques essential for numerical analysis and data manipulation, equipping learners with the skills to develop efficient and scalable solutions."
     },
