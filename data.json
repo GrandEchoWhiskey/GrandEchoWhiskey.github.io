@@ -122,6 +122,16 @@
         "description": "CS50's Introduction to Artificial Intelligence with Python covers fundamental concepts in AI, including search algorithms like breadth-first search, depth-first search, and A* search. It explores knowledge representation through propositional and first-order logic, as well as constraint satisfaction problems. The course delves into probability and uncertainty with Bayesian networks and Markov models, providing a foundation for reasoning under uncertainty. Machine learning topics include supervised and unsupervised learning, classification with Naïve Bayes and perceptron, regression techniques, and the basics of neural networks and deep learning. Students learn about training models, avoiding overfitting, and feature engineering. Natural language processing is also introduced, covering tokenization, sentiment analysis, and language modeling. Reinforcement learning is explored through Markov decision processes, Q-learning, and policy iteration. The course also addresses ethical considerations in AI, including bias, fairness, and privacy concerns."
     },
     {
+        "category": "projects",
+        "class": "card col-md-4 col-xl-3 my-2",
+        "img_class": "card-img-top",
+        "title": "Interactive Curiculum Vitae",
+        "subtitle": "C++ | Qt",
+        "image": "images/ICV.jpg",
+        "link": "",
+        "description": "Developed an Interactive Curriculum Vitae (ICV) application using C++ and the Qt framework to create a dynamic and engaging resume experience. The ICV features multimedia content to showcase skills, projects, and achievements in an innovative way. Recruiter-friendly design and interactive elements enhance user engagement and provide a unique presentation of professional qualifications. The ICV application demonstrates creativity, technical proficiency, and attention to detail in presenting a personalized resume."
+    },
+    {
         "category": "education",
         "class": "card col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
