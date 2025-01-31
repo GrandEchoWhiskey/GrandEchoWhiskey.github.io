@@ -65,7 +65,7 @@
         "category": "projects",
         "class": "card col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
-        "title": "Home NAS Server",
+        "title": "Home NAS Server on Raspberry Pi 5",
         "subtitle": "Networking | Linux",
         "image": "images/nas.jpg",
         "link": "",
