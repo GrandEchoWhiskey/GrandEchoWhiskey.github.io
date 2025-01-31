@@ -2,6 +2,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const container = document.getElementById("navbar");
 
+    var category = window.location.href.toLowerCase().split("/").pop().split(".")[0];
+
     container.innerHTML = `
         <div class="container-fluid">
             <a class="navbar-brand fs-1" href="index.html">Eric Wolf</a>
@@ -11,16 +13,16 @@ document.addEventListener("DOMContentLoaded", function () {
             <div class="collapse navbar-collapse comic fs-6 ms-lg-3" id="main_nav_bar">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0 fs-5">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html">Home</a>
+                        <a class="nav-link ${category == "index" ? "active" : ""}" href="index.html">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="projects.html">Projects</a>
+                        <a class="nav-link ${category == "projects" ? "active" : ""}" href="projects.html">Projects</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="education.html">Education</a>
+                        <a class="nav-link ${category == "education" ? "active" : ""}" href="education.html">Education</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact</a>
+                        <a class="nav-link ${category == "contact" ? "active" : ""}" href="contact.html">Contact</a>
                     </li>
                 </ul>
             </div>
