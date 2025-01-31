@@ -33,7 +33,7 @@
     },
     {
         "category": "education",
-        "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
+        "class": "card col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "CS50's Introduction to Cybersecurity",
         "subtitle": "HarvardX - Certified 23 January 2025",
@@ -43,7 +43,7 @@
     },
     {
         "category": "education",
-        "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
+        "class": "card col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "Google Cloud Cybersecurity",
         "subtitle": "Coursera - Certified 3 December 2024",
@@ -53,7 +53,7 @@
     },
     {
         "category": "education",
-        "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
+        "class": "card col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "Google Cybersecurity",
         "subtitle": "Coursera - Certified 1 December 2024",
@@ -63,7 +63,7 @@
     },
     {
         "category": "education",
-        "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
+        "class": "card col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "CS50's Introduction to Game Development",
         "subtitle": "HarvardX - Certified 5 March 2023",
@@ -73,7 +73,7 @@
     },
     {
         "category": "education",
-        "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
+        "class": "card col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "Machine Learning with Python",
         "subtitle": "FreeCodeCamp - Certified 31 January 2023",
@@ -83,7 +83,7 @@
     },
     {
         "category": "education",
-        "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
+        "class": "card col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "CS50's Introduction to Programming with Python",
         "subtitle": "HarvardX - Certified 5 December 2022",
@@ -93,7 +93,7 @@
     },
     {
         "category": "education",
-        "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
+        "class": "card col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "Scientific Computing with Python",
         "subtitle": "FreeCodeCamp - Certified 16 June 2022",
@@ -103,7 +103,7 @@
     },
     {
         "category": "education",
-        "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
+        "class": "card col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "CS50's Introduction to Artificial Intelligence with Python",
         "subtitle": "HarvardX - Certified 2 June 2022",
@@ -113,7 +113,7 @@
     },
     {
         "category": "education",
-        "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
+        "class": "card col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "CS50's Introduction to Computer Science",
         "subtitle": "HarvardX - Certified 18 April 2022",
