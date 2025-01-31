@@ -77,7 +77,7 @@
         "img_class": "card-img-top",
         "title": "Word Collection and Analysis Tool",
         "subtitle": "Python | BeautifulSoup | SQLite",
-        "image": "images/bs.jpg",
+        "image": "images/bs.png",
         "link": "",
         "description": "Developed a web scraping tool in Python to collect and analyze words from online sources. Utilized BeautifulSoup for data extraction and SQLite for database management. Implemented data cleaning and analysis algorithms to identify word frequency, patterns, and trends. The tool provides insights into language usage, vocabulary development, and content optimization for various applications."
     },
