@@ -62,6 +62,16 @@
         "description": "The Google Cybersecurity course on Coursera provides a comprehensive introduction to cybersecurity fundamentals, covering threat detection, risk management, network security, and incident response. It explores key concepts such as security best practices, cryptography, and system hardening while emphasizing real-world applications. The course also includes hands-on labs and case studies, equipping learners with the skills needed to identify vulnerabilities, mitigate cyber threats, and apply security measures in various IT environments."
     },
     {
+        "category": "projects",
+        "class": "card col-md-4 col-xl-3 my-2",
+        "img_class": "card-img-top",
+        "title": "Home NAS Server",
+        "subtitle": "Networking | Linux",
+        "image": "images/nas.jpg",
+        "link": "",
+        "description": "Designed and implemented a home Network-Attached Storage (NAS) server using a Raspberry Pi 5 and OpenMediaVault. Configured RAID 5 for data efficient disk space usage and Samba for file sharing across devices. Set up automated backups and remote access for secure data storage and retrieval. The NAS server provides centralized storage for multimedia files, documents, and backups, enhancing data security and accessibility within the home network."
+    },
+    {
         "category": "education",
         "class": "card col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
