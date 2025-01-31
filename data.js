@@ -2,13 +2,13 @@ document.addEventListener("DOMContentLoaded", function () {
     fetch("data.json")
         .then(response => response.json())
         .then(data => {
-            const container = document.getElementById("icontent");
+            const container = document.getElementsByClassName("data");
 
             data.forEach(item => {
                 const card = document.createElement("div");
                 item.class.split(" ").forEach(x => card.classList.add(x));
 
-                var url = window.location.href.toLowerCase();
+                var category = window.location.href.toLowerCase().split("/").pop().split(".")[0];
 
                 card.innerHTML = `
                     <div class="card-body">
@@ -23,10 +23,10 @@ document.addEventListener("DOMContentLoaded", function () {
                     </div>
                 `;
 
-                if (url.includes("index.html")) {
+                if (category == "index") {
                     container.appendChild(card);
                 } else {
-                    if (item.category == url.split("/").pop().split(".")[0]) {
+                    if (item.category == category) {
                         container.appendChild(card);
                     }
                 }
