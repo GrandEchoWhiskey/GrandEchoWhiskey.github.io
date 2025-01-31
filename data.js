@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     fetch("data.json")
         .then(response => response.json())
         .then(data => {
-            const container = document.getElementsByClassName("data");
+            const container = document.getElementsByClassName("data")[0];
 
             data.forEach(item => {
                 const card = document.createElement("div");
@@ -25,10 +25,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
                 if (category == "index") {
                     container.appendChild(card);
-                } else {
-                    if (item.category == category) {
-                        container.appendChild(card);
-                    }
+                } else if (item.category == category) {
+                    container.appendChild(card);
                 }
             });
         })
