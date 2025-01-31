@@ -45,6 +45,26 @@
         "category": "education",
         "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
+        "title": "Google Cloud Cybersecurity",
+        "subtitle": "Coursera - 3 December 2024",
+        "image": "CERTIFICATE_LANDING_PAGE~LH0JL39JEUVF.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/professional-cert/LH0JL39JEUVF",
+        "description": "The Google Cloud Cybersecurity course on Coursera focuses on securing cloud environments, covering key topics such as identity and access management, network security, data protection, and compliance. It provides hands-on experience with Google Cloud security tools, including Security Command Center and Cloud IAM, while teaching best practices for detecting and mitigating threats in cloud-based systems. The course equips learners with the knowledge to implement robust security strategies, ensuring the confidentiality, integrity, and availability of cloud resources."
+    },
+    {
+        "category": "education",
+        "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
+        "img_class": "card-img-top",
+        "title": "Google Cybersecurity",
+        "subtitle": "Coursera - 1 December 2024",
+        "image": "images/CERTIFICATE_LANDING_PAGE~SRRF7O4JFS4R.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/professional-cert/SRRF7O4JFS4R",
+        "description": "The Google Cybersecurity course on Coursera provides a comprehensive introduction to cybersecurity fundamentals, covering threat detection, risk management, network security, and incident response. It explores key concepts such as security best practices, cryptography, and system hardening while emphasizing real-world applications. The course also includes hands-on labs and case studies, equipping learners with the skills needed to identify vulnerabilities, mitigate cyber threats, and apply security measures in various IT environments."
+    },
+    {
+        "category": "education",
+        "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
+        "img_class": "card-img-top",
         "title": "CS50's Introduction to Game Development",
         "subtitle": "HarvardX - 5 March 2023",
         "image": "images/CS50G.png",
@@ -55,11 +75,31 @@
         "category": "education",
         "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
+        "title": "Machine Learning with Python",
+        "subtitle": "FreeCodeCamp - 31 January 2023",
+        "image": "images/fcc-ai-ew.png",
+        "link": "https://www.freecodecamp.org/certification/grandechowhiskey/machine-learning-with-python-v7",
+        "description": "The Machine Learning with Python course from FreeCodeCamp covers the fundamentals of machine learning, focusing on practical applications using Python. It introduces key concepts such as supervised and unsupervised learning, data preprocessing, and model evaluation. The course explores essential techniques like regression, classification, clustering, and neural networks, utilizing libraries such as Scikit-Learn, Pandas, and TensorFlow. With a hands-on approach, it provides insights into real-world problem-solving, equipping learners with the skills to build, train, and optimize machine learning models for various applications"
+    },
+    {
+        "category": "education",
+        "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
+        "img_class": "card-img-top",
         "title": "CS50's Introduction to Programming with Python",
         "subtitle": "HarvardX - 5 December 2022",
         "image": "images/CS50P.png",
         "link": "https://certificates.cs50.io/4940f8b2-198b-4b55-bff5-c1e107371115",
         "description": "CS50's Introduction to Programming with Python covers the fundamentals of programming using Python, focusing on readability, efficiency, and best practices. It introduces variables, data types, conditionals, loops, and functions to build structured and reusable code. Students learn about file handling, exception handling, and debugging techniques to write robust programs. The course explores object-oriented programming, covering classes, inheritance, and encapsulation for designing scalable applications. It also delves into working with data, including lists, dictionaries, and sets, as well as modules and libraries to extend Python's functionality. Topics in regular expressions, command-line arguments, and automation demonstrate how Python can be used for scripting and process optimization. The course introduces fundamental algorithms and data structures, including sorting, searching, and recursion. Students also work with APIs, web scraping, and data visualization techniques to interact with external data sources. The course concludes with discussions on software design, testing, and security best practices, preparing students to write clean, maintainable, and efficient Python code."
+    },
+    {
+        "category": "education",
+        "class": "card col-sm-6 col-md-4 col-xl-3 my-2",
+        "img_class": "card-img-top",
+        "title": "Scientific Computing with Python",
+        "subtitle": "FreeCodeCamp - 16 June 2022",
+        "image": "images/fcc-scicomp-ew.png",
+        "link": "https://www.freecodecamp.org/certification/grandechowhiskey/scientific-computing-with-python-v7",
+        "description": "The Scientific Computing with Python course from FreeCodeCamp provides a deep dive into Python for data analysis, automation, and problem-solving. It covers core programming concepts, object-oriented programming, and working with data structures. The course emphasizes practical applications such as handling files, processing data, and building algorithms. Using libraries like NumPy and Pandas, it introduces scientific computing techniques essential for numerical analysis and data manipulation, equipping learners with the skills to develop efficient and scalable solutions."
     },
     {
         "category": "education",
