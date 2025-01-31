@@ -7,7 +7,7 @@
         "subtitle": "GrandEchoWhiskey",
         "image": "https://avatars.githubusercontent.com/u/102000288",
         "link": "https://github.com/GrandEchoWhiskey",
-        "description": "Explore my GitHub for a collection of projects showcasing my expertise in cybersecurity, networking, and programming. From AI-driven applications to security tools and system automation, my repositories reflect a hands-on approach to solving real-world problems. Let's build something great together!"
+        "description": "Explore my GitHub for a collection of projects showcasing my expertise in cybersecurity, networking, and programming. From AI-driven applications to security tools and system automation, my repositories reflect a hands-on approach to solving real-world problems. Let's build something great together!<br><a href='https://github.com/GrandEchoWhiskey'>Check my GitHub</a>"
     },
     {
         "category": "contact",
@@ -17,11 +17,11 @@
         "subtitle": "Eric Wolf",
         "image": "https://media.licdn.com/dms/image/v2/C4D03AQGrkFc1o0s8hg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1651185403226?e=1743638400&v=beta&t=mNVXUVWpIOWoQdIO1vr0cf5mbiUj6aTHgiSzewL0Z9E",
         "link": "https://www.linkedin.com/in/eric-wolf-064874238/",
-        "description": "Cybersecurity and IT professional with expertise in network security, system automation, and software development. Passionate about solving real-world security challenges through hands-on projects. Explore my work and let's connect!"
+        "description": "Cybersecurity and IT professional with expertise in network security, system automation, and software development. Passionate about solving real-world security challenges through hands-on projects. Explore my work and let's connect! <br><a href='https://www.linkedin.com/in/eric-wolf-064874238/'>Check my LinkedIn</a>"
     },
     {
         "category": "education",
-        "class": "card col-md-9 col-xl-9 my-2",
+        "class": "card col-md-4 col-xl-6 my-2",
         "img_class": "card-img-top mx-auto d-block my-3",
         "title": "Bachelor of Cybersecurity",
         "subtitle": "University WSB Merito in Wrocław - 2024",
