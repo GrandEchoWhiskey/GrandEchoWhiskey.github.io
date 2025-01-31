@@ -72,6 +72,16 @@
         "description": "Designed and implemented a home Network-Attached Storage (NAS) server using a Raspberry Pi 5 and OpenMediaVault. Configured RAID 5 for data efficient disk space usage and Samba for file sharing across devices. Set up automated backups and remote access for secure data storage and retrieval. The NAS server provides centralized storage for multimedia files, documents, and backups, enhancing data security and accessibility within the home network."
     },
     {
+        "category": "projects",
+        "class": "card col-md-4 col-xl-3 my-2",
+        "img_class": "card-img-top",
+        "title": "Word Collection and Analysis Tool",
+        "subtitle": "Python | BeautifulSoup | SQLite",
+        "image": "images/bs.jpg",
+        "link": "",
+        "description": "Developed a web scraping tool in Python to collect and analyze words from online sources. Utilized BeautifulSoup for data extraction and SQLite for database management. Implemented data cleaning and analysis algorithms to identify word frequency, patterns, and trends. The tool provides insights into language usage, vocabulary development, and content optimization for various applications."
+    },
+    {
         "category": "education",
         "class": "card col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
@@ -129,7 +139,7 @@
         "subtitle": "C++ | Qt",
         "image": "images/ICV.jpg",
         "link": "",
-        "description": "Developed an Interactive Curriculum Vitae (ICV) application using C++ and the Qt framework to create a dynamic and engaging resume experience. The ICV features multimedia content to showcase skills, projects, and achievements in an innovative way. Recruiter-friendly design and interactive elements enhance user engagement and provide a unique presentation of professional qualifications. The ICV application demonstrates creativity, technical proficiency, and attention to detail in presenting a personalized resume."
+        "description": "Interactive CV - This project was designed to improve communication between recruiters and potential employees by incorporating video content into the CV. It allows the candidate not only to showcase their projects and skills in a more dynamic way but also to utilize gestures and body language, which are essential aspects of human communication. Research has shown that non-verbal cues, such as facial expressions and posture, can convey emotions, intentions, and confidence more effectively than words alone. By adding this layer of interaction, the project aims to make the candidate’s profile more engaging, memorable, and reflective of their personality, which is often crucial in the recruitment process."
     },
     {
         "category": "education",
