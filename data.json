@@ -23,7 +23,7 @@
     },
     {
         "category": "education",
-        "class": "card col-md-4 col-xl-6 my-2",
+        "class": "card col-sm-12 col-md-8 col-xl-6 my-2",
         "img_class": "card-img-top mx-auto d-block my-3",
         "title": "Bachelor of Cybersecurity",
         "subtitle": "University WSB Merito in Wrocław - Graduated 2024",
@@ -33,7 +33,7 @@
     },
     {
         "category": "education",
-        "class": "card col-md-4 col-xl-3 my-2",
+        "class": "card col-sm-12 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "CS50's Introduction to Cybersecurity",
         "subtitle": "HarvardX - Certified 23 January 2025",
@@ -43,7 +43,7 @@
     },
     {
         "category": "education",
-        "class": "card col-md-4 col-xl-3 my-2",
+        "class": "card col-sm-12 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "Google Cloud Cybersecurity",
         "subtitle": "Coursera - Certified 3 December 2024",
@@ -53,7 +53,7 @@
     },
     {
         "category": "education",
-        "class": "card col-md-4 col-xl-3 my-2",
+        "class": "card col-sm-12 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "Google Cybersecurity",
         "subtitle": "Coursera - Certified 1 December 2024",
@@ -63,7 +63,7 @@
     },
     {
         "category": "projects",
-        "class": "card col-md-4 col-xl-3 my-2",
+        "class": "card col-sm-12 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "Home NAS Server on Raspberry Pi 5",
         "subtitle": "Networking | Linux",
@@ -73,7 +73,7 @@
     },
     {
         "category": "projects",
-        "class": "card col-md-4 col-xl-3 my-2",
+        "class": "card col-sm-12 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "Word Collection and Analysis Tool",
         "subtitle": "Python | BeautifulSoup | SQLite",
@@ -83,7 +83,7 @@
     },
     {
         "category": "education",
-        "class": "card col-md-4 col-xl-3 my-2",
+        "class": "card col-sm-12 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "CS50's Introduction to Game Development",
         "subtitle": "HarvardX - Certified 5 March 2023",
@@ -93,7 +93,7 @@
     },
     {
         "category": "education",
-        "class": "card col-md-4 col-xl-3 my-2",
+        "class": "card col-sm-12 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "Machine Learning with Python",
         "subtitle": "FreeCodeCamp - Certified 31 January 2023",
@@ -103,7 +103,7 @@
     },
     {
         "category": "education",
-        "class": "card col-md-4 col-xl-3 my-2",
+        "class": "card col-sm-12 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "CS50's Introduction to Programming with Python",
         "subtitle": "HarvardX - Certified 5 December 2022",
@@ -113,7 +113,7 @@
     },
     {
         "category": "education",
-        "class": "card col-md-4 col-xl-3 my-2",
+        "class": "card col-sm-12 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "Scientific Computing with Python",
         "subtitle": "FreeCodeCamp - Certified 16 June 2022",
@@ -123,7 +123,7 @@
     },
     {
         "category": "education",
-        "class": "card col-md-4 col-xl-3 my-2",
+        "class": "card col-sm-12 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "CS50's Introduction to Artificial Intelligence with Python",
         "subtitle": "HarvardX - Certified 2 June 2022",
@@ -133,7 +133,7 @@
     },
     {
         "category": "projects",
-        "class": "card col-md-4 col-xl-3 my-2",
+        "class": "card col-sm-12 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "Interactive Curiculum Vitae",
         "subtitle": "C++ | Qt",
@@ -143,7 +143,7 @@
     },
     {
         "category": "education",
-        "class": "card col-md-4 col-xl-3 my-2",
+        "class": "card col-sm-12 col-md-4 col-xl-3 my-2",
         "img_class": "card-img-top",
         "title": "CS50's Introduction to Computer Science",
         "subtitle": "HarvardX - Certified 18 April 2022",
