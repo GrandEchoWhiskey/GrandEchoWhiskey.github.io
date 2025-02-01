@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
             <div class="collapse navbar-collapse comic fs-6 ms-lg-3" id="main_nav_bar">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0 fs-5">
                     <li class="nav-item">
-                        <a class="nav-link ${category == "index" ? "active" : ""}" href="index.html">Home</a>
+                        <a class="nav-link ${category == "index" || category == "" ? "active" : ""}" href="index.html">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link ${category == "projects" ? "active" : ""}" href="projects.html">Projects</a>

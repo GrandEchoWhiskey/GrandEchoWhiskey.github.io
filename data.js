@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     </div>
                 `;
 
-                if (category == "index") {
+                if (category == "index" || category == "") {
                     container.appendChild(card);
                 } else if (item.category == category) {
                     container.appendChild(card);
